@@ -1,0 +1,9 @@
+name: PlayerVaults
+version: 1.4.1
+author: GhostGuy283
+main: nl.GhostGuy283.Vaults.Main
+commands:
+  playervaults:
+    description: PlayerVaults Command!
+  pv:
+    description: PlayerVaults Command!
