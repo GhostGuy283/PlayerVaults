@@ -14,3 +14,4 @@ PlayerVaults.config
 #Commands
 /PlayerVaults 
 /pv
+
